@@ -61,6 +61,10 @@ The following requests should be implemented:
 - Remove product from requesting user
 - List products attached to requesting user
 
+### Frontend
+
+Display a list of users with pagination. Additionally display the products a user owns in anyway you see fit.
+
 ### Tests
 
 You must write tests to back up your code. You are free to use any testing tools or frameworks you like.
