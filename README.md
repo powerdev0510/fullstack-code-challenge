@@ -1,5 +1,5 @@
 # Code Challenge
-You have 48 hours to build a simple RESTful API. The API must be written in Node.js, and you may use any tools that you would like (frameworks, packages, etc.).
+You have 24 hours to build a simple RESTful API. The API must be written in Node.js, and you may use any tools that you would like (frameworks, packages, etc.).
 
 - All responses should be JSON
 - All requests should be JSON
