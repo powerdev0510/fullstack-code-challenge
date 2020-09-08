@@ -68,7 +68,7 @@ Display a list of users with pagination. Additionally display the products a use
 You should write tests to back up your code. You are free to use any testing tools or frameworks you like.
 
 ## Completion
-When you are finished (or out of time) you will push up the application to a git repo. Then please notify Thomas Kane via email (thomas@pumpjackdataworks.com) with the subject Pumpjack Code Challenge and the link to the github repo. Please include:
+When you are finished (or out of time) you will push up the application to a git repo. Then please notify Travis Baker via email (travis@pumpjackdataworks.com) with the subject Pumpjack Code Challenge and the link to the github repo. Please include:
 
 - Instructions on how to create and seed database tables
 - Instructions on how authentication works
