@@ -8,7 +8,7 @@ You have 24 hours to build a simple [GraphQL](https://graphql.org/) API with a [
 - A node Postgres library (i.e. [node-postgres](https://node-postgres.com/)) to connect with your ORM or query builder if you choose to use one
 - A client side UI component library ([material-ui](https://material-ui.com/), [bootstrap](https://react-bootstrap.github.io/), etc.)
 
-**Note:** Do not use any autogeneration libraries/frameworks such as [PostGraphile](https://www.graphile.org/postgraphile/) or [Hasura](https://hasura.io/).
+**Note:** Do not use any autogeneration libraries/frameworks such as [PostGraphile](https://www.graphile.org/postgraphile/) or [Hasura](https://hasura.io/). Also, do not fork this repo.
 
 ## Description of Application
 The application consists of **users** and **products**.
@@ -68,11 +68,11 @@ Display a list of users with pagination. Additionally display the products a use
 You should write tests to back up your code. You are free to use any testing tools or frameworks you like.
 
 ## Completion
-When you are finished (or out of time) you will push up the application to a git repo. Then please notify Travis Baker via email (travis@pumpjackdataworks.com) with the subject Pumpjack Code Challenge and the link to the github repo. Please include:
+When you are finished (or out of time) you will push up the application to a git repo. Then please notify Mohammad Farooqi via email (mohammad@pumpjackdataworks.com) with the subject Pumpjack Code Challenge and the link to the github repo. Please include:
 
 - Instructions on how to create and seed database tables
 - Instructions on how authentication works
-- Anything else you think Thomas should know to run the application (if anything)
-Thomas is available for any questions you may have via email at thomas@pumpjackdataworks.com.
+- Anything else you think we should know to run the application (if anything)
+Mohammad is available for any questions you may have via email at mohammad@pumpjackdataworks.com.
 
 ![Good Luck](https://media.giphy.com/media/3ohfFopqHDT7vcMM2A/giphy.gif)
