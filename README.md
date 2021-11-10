@@ -62,7 +62,7 @@ The following operations should be implemented:
 ### Frontend
 Display a list of users with pagination. Additionally display the products a user owns in anyway you see fit.
 
-**Please note:** The frontend does NOT need to be able to create, edit, or delete data.
+**Please note:** The frontend does NOT need to be able to create, edit, or delete data. Bonus points for a catchy design.
 
 ### Tests
 You should write tests to back up your code. You are free to use any testing tools or frameworks you like.
